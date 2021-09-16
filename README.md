@@ -1,0 +1,2 @@
+# AI_Enabled_Fintech_B2B_Order_Management_Application
+Developed a Machine Learning Model to predict the payment date of an invoice and bucketize clients w.r.t payment due dates. • Built a responsive receivables dashboard, visualize data in the form of grids, perform Searching operations, edit data, download data of selected rows in predefined templates. • The backend was managed by Java Servlets, Java JDBC, and MySQL. • Tools Used: Machine Learning, Python, ReactJS, Jdbc, Java, MySQL.
